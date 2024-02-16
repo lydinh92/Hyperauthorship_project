@@ -1,5 +1,4 @@
-# Repository for Hyperauthorship and Egocentric Network Metrics project
-# Hyperauthorship project README
+# Hyperauthorship and Egocentric Network Metrics README
 # Author: Ly Dinh
 
 ## Files Description:
