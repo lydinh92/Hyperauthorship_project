@@ -3,13 +3,13 @@
 
 ## Files Description:
 
-1. `Hyperauthorship_network_construction_analysis.py`: This Python script contains the code for constructing and analyzing networks with vs. without hyperauthorship.
+1. `Hyperauthorship_threshold_method.py`: This Python script contains the code for implementing the hyperauthorship threshold method as discussed in the paper.
 
-2. `Paper-Author_edgelist_without_hyperauthor_anonymized.csv`: This CSV file contains the edgelist representing the paper-author relationships in the network without hyperauthored papers. The data is anonymized.
+2. `Hyperauthorship_network_construction_analysis.py`: This Python script contains the code for constructing and analyzing networks with vs. without hyperauthorship.
 
-3. `Paper-Author_edgelist_with_hyperauthor_anonymized.csv`: This CSV file contains the edgelist representing the paper-author relationships in the network with hyperauthored papers included. The data is anonymized.
+3. `Paper-Author_edgelist_without_hyperauthor_anonymized.csv`: This CSV file contains the edgelist representing the paper-author relationships in the network without hyperauthored papers. The data is anonymized.
 
-4. `Hyperauthorship_threshold_method.py`: This Python script contains the code for implementing the hyperauthorship threshold method as discussed in the paper.
+4. `Paper-Author_edgelist_with_hyperauthor_anonymized.csv`: This CSV file contains the edgelist representing the paper-author relationships in the network with hyperauthored papers included. The data is anonymized.
 
 ## Usage:
 
